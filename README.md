@@ -1,5 +1,9 @@
 # Hello World
 
+## Concepts
+
+**_Look at these concepts_**
+
 * Hello world repository for **Git** Tutorial
 * This is an example repository for the **Git** Tutorial
 * This Repository is built step by step in the tutorial
@@ -11,6 +15,11 @@
 * [Git - git Documentation](https://www.git-scm.com/docs/git#_git_commands)
 
 ## More to Follow
+
 * [Git Cheatcheet](https://www.ndpsoftware.com/git-cheatsheet.html#loc=stash;)
 
 ## Resources Guide
+
+**Read or watch:**
+
+* [github.com](https://www.github.com/signup)
