@@ -6,3 +6,7 @@
 # named temp
 
 temp/
+
+# More rules to follow
+
+*.gitignore
